@@ -106,6 +106,5 @@
 
 <br/>  
 
-![Snake animation](https://aleena9k.github.io/Aleena9k/github-contribution-grid-snake.svg)
 
 
