@@ -1,8 +1,5 @@
 <img align="center" src="assets/phone_techno.gif" alt="banner">
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+
 
 ### <div align="center">Hey! I'm Aleena, a techno explorer👩‍💻  and computer enthusiast🤗</div>  
   
