@@ -1,4 +1,4 @@
-<img align="center" src="assets/phone_techno.gif" alt="banner">
+<img align="center" src="assets/Phone_techno.gif" alt="banner">
 
 
 ### <div align="center">Hey! I'm Aleena, a techno explorer👩‍💻  and computer enthusiast🤗</div>  
