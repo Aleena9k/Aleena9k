@@ -1,4 +1,4 @@
-<img align="center" src="assets/Phone_techno.gif" width = "100%" style = "height:200px;" alt="banner">
+<!--<img align="center" src="assets/Phone_techno.gif" width = "100%" style = "height:200px;" alt="banner">-->
 <!-- ### <div align="center">Hey! I'm Aleena, a techno explorer👩‍💻  and computer enthusiast</div>  
 - 🎓 Computer Science enthusiast passionate about **Datascience**.  
 - 🔬 Have also explored development with **React** and **Node**  
@@ -10,21 +10,32 @@
 <table>
     <tr>
         <th width="1000px" align="center" valign="top">
-            <h1 align="center">Hey! Myself Aleena 🤗</h1>
-            <h3 align="center">A wanderer figuring out how life works with computers</h3>
+            <h1 align="center" >Hey! Myself Aleena 🤗</h1>
+            <h3 align="center"> <em>A wanderer figuring out how life works with computers</em> </h3>
+            <p>
             <ul align="left">
                 <li>🎓 Computer Science enthusiast passionate about <strong>Datascience</strong>.</li> 
                 <li>👂 Always on ears for new technologies</li>
                 <li>📚 Currently working with GenAI.</li>
                 <li>🖋 More of me: A writer dangling around with words.</li>
             </ul>
+        </p>
+    <h3>Connect with me:</h3>
+            <p>
+                <a href="mailto:aleena9k@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="aleena-mail" width="35" /></a>
+                <a href="[https://www.linkedin.com/in/aleena-khan-7152b2244]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aleena-khan-7152b2244" width="35" /></a>
+                <a href="https://www.instagram.com/vocalvibes_9k/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vocalvibes_9k" width="35" /></a>
+                <a href="https://medium.com/https://medium.com/@aleena9k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="vocalvibes_9k" width="35" /></a>
+                <a href="https://www.geeksforgeeks.org/user/aleenokb8/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aleenaokb8" width="35" /></a>
+                <a href="https://leetcode.com/u/Aleena_khan/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/leet-code.svg" alt="Aleena9k" width="35" /></a>
+            </p>
         </th>
         <th width="800px" align="center" valign="top">
-            <img src="your-image-url.jpg" alt="Aleena's photo" width="400px" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+            <img src="assets/portfolio_ironman.jpeg" alt="Aleena's photo" width="400px" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
         </th>
     </tr>
 </table>
-
+<div align = "center">
 <table>
    <tr>
      <td><strong>Programming Languages</strong></td>
@@ -47,6 +58,10 @@
   </tr>
   <tr>
      <td><strong>APIS and AI</strong></td>
+       <td>
+      <a href="https://aistudio.google.com/prompts/new_chat" target="_blank" rel="noreferrer"><img src="assets/gemini_icon.png" width="40" height="40" alt="gemini"/></a>
+      <a href="https://www.crewai.com/" target="_blank" rel="noreferrer"><img src="assets/crewai-color.svg" width="40" height="40" alt="gemini"/></a>
+    </td>
    </tr>
   <tr>
     <td><strong>Web Stack</strong></td>
@@ -71,6 +86,8 @@
      <td><strong>Tools and Platform</strong></td>
     <td>
       <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/d59b7574-204e-4267-923a-e1b20fb623f0" width="40" height="40" alt="postman"/></a>
+        <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="linux"/></a>
+    </td>
     </td>
     </td>
    </tr>
@@ -81,26 +98,7 @@
     </td>
   </tr>
 </table>
- 
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/https://github.com/Aleena9k" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aleena-khan-7152b2244/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/https://www.instagram.com/vocalvibes_9k/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/https://medium.com/@aleena9k" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
+</div>
 <br/>  
 
 
