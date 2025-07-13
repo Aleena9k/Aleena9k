@@ -1,25 +1,29 @@
 <img align="center" src="assets/Phone_techno.gif" width = "100%" style = "height:200px;" alt="banner">
-
-
-### <div align="center">Hey! I'm Aleena, a techno explorer👩‍💻  and computer enthusiast🤗</div>  
-  
-
+<!-- ### <div align="center">Hey! I'm Aleena, a techno explorer👩‍💻  and computer enthusiast</div>  
 - 🎓 Computer Science enthusiast passionate about **Datascience**.  
-  
-
 - 🔬 Have also explored development with **React** and **Node**  
-  
-
 - 📚 Currently working with GenAI.  
-  
-
 - 👂 Always on ears for new technologies  
-  
-
 - 🖋️ More of me: A writer dangling around with words.  
-  
+<br/>  -->
 
-<br/>  
+<table>
+    <tr>
+        <th width="1000px" align="center" valign="top">
+            <h1 align="center">Hey! Myself Aleena 🤗</h1>
+            <h3 align="center">A wanderer figuring out how life works with computers</h3>
+            <ul align="left">
+                <li>🎓 Computer Science enthusiast passionate about <strong>Datascience</strong>.</li> 
+                <li>👂 Always on ears for new technologies</li>
+                <li>📚 Currently working with GenAI.</li>
+                <li>🖋 More of me: A writer dangling around with words.</li>
+            </ul>
+        </th>
+        <th width="800px" align="center" valign="top">
+            <img src="your-image-url.jpg" alt="Aleena's photo" width="400px" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+        </th>
+    </tr>
+</table>
 
 <table>
    <tr>
