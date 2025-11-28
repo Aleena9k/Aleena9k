@@ -26,8 +26,8 @@
                 <a href="[https://www.linkedin.com/in/aleena-khan-7152b2244]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aleena-khan-7152b2244" width="35" /></a>
                 <a href="https://www.instagram.com/vocalvibes_9k/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vocalvibes_9k" width="35" /></a>
                 <a href="https://medium.com/https://medium.com/@aleena9k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="vocalvibes_9k" width="35" /></a>
-                <a href="https://www.geeksforgeeks.org/user/aleenokb8/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aleenaokb8" width="35" /></a>
-                <a href="https://leetcode.com/u/Aleena_khan/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/leet-code.svg" alt="Aleena9k" width="35" /></a>
+                <a href="https://www.geeksforgeeks.org/user/aleenokb8/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/main/src/images/icons/Social/geeks-for-geeks.svg" alt="aleenaokb8" width="35" /></a>
+                <a href="https://leetcode.com/u/Aleena_khan/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/main/src/images/icons/Social/leet-code.svg" alt="Aleena9k" width="35" /></a>
             </p>
         </th>
         <th width="800px" align="center" valign="top">
